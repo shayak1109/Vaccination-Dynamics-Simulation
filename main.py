@@ -172,15 +172,7 @@ axs[2, 1].axis('off')
 plt.tight_layout()
 st.pyplot(fig)
 
-# Note: The original report code does not plot M, gamma, eta, or xi,
-# but you could add them here if you wanted. For example:
-# st.subheader('Additional Model Dynamics')
-# fig2, axs2 = plt.subplots(3, 1, figsize=(8, 10))
-# axs2[0].plot(tspan, M, '-k', linewidth=1.5)
-# axs2[0].set_title('Misinformation Index (M)')
-# axs2[0].grid(True)
-# ... etc. for gamma, eta, xi
-# st.pyplot(fig2)
+
 
 
 st.subheader('Understanding the Outputs')
