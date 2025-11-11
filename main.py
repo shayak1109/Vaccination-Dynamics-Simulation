@@ -185,19 +185,19 @@ st.pyplot(fig)
 
 st.subheader('Understanding the Outputs')
 st.markdown("""
-*Susceptible Population $(S)$*: This represents individuals who are not infected but are at risk of
+- *Susceptible Population $(S)$*: This represents individuals who are not infected but are at risk of
 contracting the disease.
-*Vaccinated Population $(V)$*: Individuals who have received the vaccine. The effectiveness of the
+- *Vaccinated Population $(V)$*: Individuals who have received the vaccine. The effectiveness of the
 vaccine is reflected in this graph.
 - *Carriers Population $(C)$*: People who carry the disease without showing symptoms, contributing to
 the disease's spread.
-*Infected Population $(I)$*: The number of individuals who are currently symptomatic and can spread
+- *Infected Population $(I)$*: The number of individuals who are currently symptomatic and can spread
 the disease.
-*Recovered Population $(R)$*: Individuals who have recovered from the disease and gained natural
+- *Recovered Population $(R)$*: Individuals who have recovered from the disease and gained natural
 immunity.
-*Misinformation Index $(M)$*: Reflects the impact of misinformation on public perception
+- *Misinformation Index $(M)$*: Reflects the impact of misinformation on public perception
 and vaccination rates.
-This model allows you to visualize the intricate balance between disease spread, public health
+- This model allows you to visualize the intricate balance between disease spread, public health
 interventions, and social factors.
 Use this tool to gain insights into how different strategies could
 influence disease outcomes in real-world scenarios.
