@@ -117,10 +117,9 @@ Behavioral Indices:
 ```bash
 📁 Vaccination-Dynamics-Simulation
  ├── main.py              # Streamlit application
- ├── model.py             # Model equations and ODE solver
  ├── requirements.txt      # Dependencies
- ├── report/               # Contains project report and IEEE paper
- ├── plots/                # Graph outputs
+ ├── Math_Report.pdf       # Contains project report
+ ├── Math_paper.pdf        # Graph outputs
  └── README.md             # This documentation file
 
 ```
@@ -146,5 +145,5 @@ Key literature referenced in this work:
 4. F. Agusto and M. Leite, *Optimal Control and Cost–Effective Analysis of the 2017 Meningitis Outbreak in Nigeria*, Infect. Dis. Model., 2019.  
 5. L. Perra et al., *Behaviour–Disease Models*, PLoS ONE, 2011.  
 
-For the **complete reference list**, please refer to the full report included in the [`/report`](./report) folder.
+For the **complete reference list**, please refer to the [`Math_paper.pdf`](Math_paper.pdf) file.
 
